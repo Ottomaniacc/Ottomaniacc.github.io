@@ -1,7 +1,16 @@
 body {
     background-color: grey;
-    background-image: url(/media/backgroundtictactoe.png)
+    background-image: url(/projectTTT/backgroundtictactoe.png);
+    background-size: cover;
+    
 }
+
+
+
+.h1{
+    color: white;
+}
+
 
 .wrapper {
   
@@ -9,6 +18,9 @@ body {
     height: 250px;
 }
 
+#statusText {
+    color: white;
+}
 
 .cell{
     width: 75px;
