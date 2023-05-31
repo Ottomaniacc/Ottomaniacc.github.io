@@ -8,7 +8,7 @@ body {
 
 
 .h1{
-    color: white;
+    color: black;
 }
 
 
@@ -19,7 +19,7 @@ body {
 }
 
 #statusText {
-    color: white;
+    color: black;
 }
 
 .cell{
